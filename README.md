@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ratnalapraveen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<doctype html>
+<html>
+<head>
+      <Meta charset="utf-8" >
+      <title>Rock Resume</title>
 
-<!---
-Ratnalapraveen/Ratnalapraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</head>
+<body>
+</body>
+</html>
